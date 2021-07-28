@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "KelimeAdi": "Alem\u015F\u00FCmul",
+    "Anlam": "Evrensel, d\u00FCnyaya yay\u0131lacak \u00F6l\u00E7\u00FCde",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Neden maddemle bu kadar me\u015Fguls\u00FCn, ne ben ne de senin sanat\u0131m dedi\u011Fin \u015Fey zannetti\u011Fin kadar m\u00FChim de\u011Fildir, elinden gelirse senin de benim de i\u00E7imizden konu\u015Fan s\u0131rra, \u00E2lem\u015F\u00FCmul sevgiye y\u00FCksel. (Ahmet H. Tanp\u0131nar)"
+  },
+  {
+    "id": 0,
+    "KelimeAdi": "Afaki",
+    "Anlam": "Gereksiz, \u00F6nemsiz (s\u00F6z).",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "\u0022Biraz afaki sohbetten sonra oradan kalkt\u0131k.\u0022 - Ahmet Rasim"
+  },
+  {
+    "id": 3,
+    "KelimeAdi": "Ankeb\u00FCt",
+    "Anlam": "\u201C\u00F6r\u00FCmcek\u201D",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "\u201CAnkeb\u00FBt\u00EE m\u00EE nem\u00E2ned b\u00EE mekes / R\u0131zk-r\u00E2r\u00FBz\u00EE res\u00E2n per m\u00EE dehed\u201D (\u00D6r\u00FCmcek sineksiz kalmaz, Allah onun g\u00FCnl\u00FCk r\u0131zk\u0131n\u0131 kanat takarak aya\u011F\u0131na g\u00F6nderir)"
+  },
+  {
+    "id": 4,
+    "KelimeAdi": "Asude",
+    "Anlam": "Rahat, sakin",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "\u0022\u00D6l\u00FCm asude bahar \u00FClkesidir bir rinde.\u0022 - Yahya Kemal Beyatl\u0131"
+  },
+  {
+    "id": 5,
+    "KelimeAdi": "Bahusus",
+    "Anlam": "zarf, eskimi\u015F",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "\u0022K\u00F6\u015Fk geni\u015F, ben kalabal\u0131\u011F\u0131 severim, bahusus etraf\u0131mda sizin gibi gen\u00E7ler olursa b\u00FCsb\u00FCt\u00FCn i\u00E7im a\u00E7\u0131l\u0131r.\u0022 - Yakup Kadri Karaosmano\u011Flu"
+  },
+  {
+    "id": 6,
+    "KelimeAdi": "Beyanname",
+    "Anlam": "Bir kimsenin resm\u00EE bir kurulu\u015Fa herhangi bir durumu bildirmek i\u00E7in verdi\u011Fi \u00E7izelge, bildirge",
+    "Dil": "Arap\u00E7a",
+    "Ornek": " \u0022Gemilere mal y\u00FCkleten t\u00FCccarlardan beyanname istiyorlarm\u0131\u015F.\u0022 - Memduh \u015Eevket Esendal"
+  },
+  {
+    "id": 7,
+    "KelimeAdi": "Beynelmilel",
+    "Anlam": "Uluslararas\u0131",
+    "Dil": "Arap\u00E7a",
+    "Ornek": " \u0022Medeniyetin beynelmilel fakat hars\u0131n mutlaka mill\u00EE oldu\u011Funu unutmayaca\u011F\u0131z.\u0022 - Orhan Seyfi Orhon"
+  },
+  {
+    "id": 8,
+    "KelimeAdi": "Binaenaleyh",
+    "Anlam": "Bundan dolay\u0131, bundan \u00F6t\u00FCr\u00FC, bunun i\u00E7in, bunun \u00FCzerine",
+    "Dil": "Arap\u00E7a",
+    "Ornek": " \u0022Binaenaleyh, bu koruma tedbiri pazarda de\u011Fil kesi\u015F mahallinde yap\u0131l\u0131r.\u0022 - Naz\u0131m Hikmet"
+  },
+  {
+    "id": 9,
+    "KelimeAdi": "Cedel",
+    "Anlam": "Tart\u0131\u015Fma, \u00E7eki\u015Fme, m\u00FCnaka\u015Fa etme",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Cih\u00E2n\u0131 ma\u2019reke eylemi\u015F hay\u00E2t\u0131 cedel (Mehmet \u00C2kif\u2019ten)."
+  },
+  {
+    "id": 10,
+    "KelimeAdi": "Cezire",
+    "Anlam": "Ada",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Bu cez\u00EEre halk\u0131n\u0131n b\u00FCy\u00FCkleri ve ek\u00E2birleri enselerinde biraz per\u00E7em kor (K\u00E2tip \u00C7elebi\u2019den Se\u00E7.)"
+  },
+  {
+    "id": 11,
+    "KelimeAdi": "Cihann\u00FCma",
+    "Anlam": "Evlerde etr\u00E2f\u0131 seyredebilmek i\u00E7in \u00E7at\u0131lar\u0131n \u00FCst\u00FCne yap\u0131lan tara\u00E7a veya oda, kule.",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "\u201CEdirne Cihann\u00FCm\u00E2 Kasr\u0131.\u201D"
+  },
+  {
+    "id": 12,
+    "KelimeAdi": "C\u00FCziyat",
+    "Anlam": "De\u011Fersiz, \u00F6nemsiz, ufak tefek \u015Feyler",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Bu n\u00FCcum ilminin c\u00FCz\u2019iy\u00E2t\u0131 idrak edilmez (K\u00E2tip \u00C7elebi\u2019den Se\u00E7.)."
+  },
+  {
+    "id": 13,
+    "KelimeAdi": "\u00C7ehre",
+    "Anlam": "Y\u00FCz, surat, s\u00EEm\u00E2",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Geni\u015F beyaz \u00E7ehresi yeni do\u011Fmu\u015F bir ay gibi parl\u0131yordu (\u00D6mer Seyfeddin)."
+  },
+  {
+    "id": 14,
+    "KelimeAdi": "\u00C7e\u015Fm",
+    "Anlam": "G\u00F6z",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "De\u011Firmenler d\u00F6ner \u00E7e\u015Fmim ya\u015F\u0131ndan (Karacao\u011Flan)"
+  },
+  {
+    "id": 15,
+    "KelimeAdi": "Dalalet",
+    "Anlam": "Do\u011Fru yoldan ayr\u0131lma, yoldan \u00E7\u0131kma, sap\u0131tma, sap\u0131kl\u0131k",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Her yan\u0131m \u00E7ep\u00E7evre karanl\u0131k dolu / Dal\u00E2let kaplam\u0131\u015F hep sa\u011F\u0131 solu (Orhan S. Orhon)."
+  },
+  {
+    "id": 16,
+    "KelimeAdi": "Darb\u0131mesel",
+    "Anlam": "\u201Cvurma\u201D ve me\u0455el \u201Canlaml\u0131 s\u00F6z\u201D ile \u1E0Darb-\u0131 me\u0455el)",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Darb\u0131meselde, \u201CE\u011Fer her u\u00E7an ku\u015F incir yeseydi bir d\u00EEn\u00E2ra incir bulunmazd\u0131\u201D demi\u015Flerdir (K\u00E2tip \u00C7elebi\u2019den Se\u00E7.)."
+  },
+  {
+    "id": 17,
+    "KelimeAdi": "Dar\u00FClf\u00FCnun",
+    "Anlam": "\u00DCniversite",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Medreseden sonra d\u00E2r\u00FClf\u00FCn\u00FBnu da tamamlam\u0131\u015Ft\u0131 (\u00D6mer Seyfeddin"
+  },
+  {
+    "id": 18,
+    "KelimeAdi": "Divane",
+    "Anlam": "Kendini duygular\u0131n\u0131n co\u015Fkunlu\u011Funa b\u0131rakm\u0131\u015F, ak\u0131lla ilgisini kesmi\u015F, a\u015Fk\u0131n buyru\u011Fu alt\u0131na girmi\u015F olan kimse, meczup, \u015Feyd\u00E2",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "D\u00FCny\u00E2dan el \u00E7ek ey d\u00EEv\u00E2ne g\u00F6nl\u00FCm (Pir Sultan Abdal)"
+  },
+  {
+    "id": 19,
+    "KelimeAdi": "Ebediyet",
+    "Anlam": "Ebed\u00EElik, sonsuzluk, \u00F6l\u00FCms\u00FCzl\u00FCk",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "O eserler bug\u00FCn def\u00EEne midir / Ebediyyette bir haz\u00EEne midir (Yahy\u00E2 Kemal). "
+  },
+  {
+    "id": 20,
+    "KelimeAdi": "Edevat",
+    "Anlam": "\u0130\u015F yapmak i\u00E7in kullan\u0131lan \u00E2letler, tak\u0131mlar, avadanl\u0131k",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Merak erb\u00E2b\u0131, mensup olduklar\u0131 meslekte v\u00FCc\u00FBda getirdikleri \u00E2s\u00E2r\u0131 ne derecede severlerse bu \u00E2s\u00E2r\u0131n ves\u00E2il-i \u00EEc\u00E2d\u0131 olan edev\u00E2ta dahi hemen o kadar muhabbet ederler (Muallim N\u00E2ci). "
+  },
+  {
+    "id": 21,
+    "KelimeAdi": "Edip",
+    "Anlam": "Edeb\u00EE yaz\u0131lar yazan kimse, edeb\u00EE nesir yazar\u0131",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "S\u00FCleyman Nazif ed\u00EEbimizdi, son b\u00FCy\u00FCk ed\u00EEbimiz (Ahmet H\u00E2\u015Fim). "
+  },
+  {
+    "id": 22,
+    "KelimeAdi": "Edna",
+    "Anlam": "\u00C7ok (daha, en, pek) a\u015Fa\u011F\u0131, \u00E2d\u00EE",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Sevmem g\u00FCzelin edn\u00E2s\u0131n / Gayriye g\u00F6n\u00FCl vermesin (Karacao\u011Flan)"
+  },
+  {
+    "id": 23,
+    "KelimeAdi": "Fahri",
+    "Anlam": "Bir \u00FCcret kar\u015F\u0131l\u0131\u011F\u0131 olmadan, s\u0131rf \u015Feref ve iftihar ves\u00EElesi olmak \u00FCzere verilen (p\u00E2ye), onursal",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "\u201CFahr\u00EE \u00E7al\u0131\u015F\u0131yorum.\u201D Fahr\u00EE olarak bu hizmeti g\u00F6r\u00FCr\u00FCm (\u00D6mer Seyfeddin). "
+  },
+  {
+    "id": 24,
+    "KelimeAdi": "Fas\u0131la",
+    "Anlam": "\u0130ki \u015Feyi birbirinden ay\u0131ran a\u00E7\u0131kl\u0131k, bo\u015Fluk, ara, aral\u0131k",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "\u201C\u0130ki saat f\u00E2s\u0131la ile geldiler.\u201D Uzunca f\u00E2s\u0131lalarla bir iki sil\u00E2h patl\u0131yor (Re\u015Fat N. G\u00FCntekin)."
+  },
+  {
+    "id": 25,
+    "KelimeAdi": "Fevkalbe\u015Fer",
+    "Anlam": "\u0130nsan \u00FCst\u00FC",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "\u201CFevkalbe\u015Fer bir kuvvet.\u201D Fakat ben, m\u00FCfekkiremin \u015Fe\u2019niyetlere kar\u015F\u0131 bu h\u00FCrriyetini kazanacak kadar fevkalbe\u015Fer bir realizme y\u00FCkselmi\u015F olabilir miydim? (Pey\u00E2mi Saf\u00E2)."
+  },
+  {
+    "id": 26,
+    "KelimeAdi": "Filhakika",
+    "Anlam": "Ger\u00E7ekten, hak\u00EEkatte, do\u011Frusu",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Filhak\u00EEka Y\u00FBnus, Mo\u011Fol ist\u00EEl\u00E2s\u0131n\u0131n azd\u0131\u011F\u0131 devirde b\u00FCy\u00FCd\u00FC (Ahmet H. Tanp\u0131nar). "
+  },
+  {
+    "id": 27,
+    "KelimeAdi": "Garabet",
+    "Anlam": "Gariplik, tuhafl\u0131k, ac\u00E2yiplik",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Her h\u00E2li acip ve garip olan ve gar\u00E2bet-i ahv\u00E2li hik\u00E2ye edilip edilip de bitirilmeyen insan k\u0131sm\u0131nda i\u015Fte bu gar\u00E2bet de vard\u0131r (Ahmed Midhat Efendi)"
+  },
+  {
+    "id": 28,
+    "KelimeAdi": "Gaybubet",
+    "Anlam": "G\u00F6z \u00F6n\u00FCnde olmama, haz\u0131r ve g\u00F6r\u00FCn\u00FCrde bulunmama, ba\u015Fka yerde olma",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Bahtiyar addolunmas\u0131n m\u0131 o insan ki gayb\u00FBbeti milletta\u015F\u0131 olmayan insanlar\u0131 da m\u00FCteessir eder (Muallim N\u00E2ci)."
+  },
+  {
+    "id": 29,
+    "KelimeAdi": "G\u00FClistan",
+    "Anlam": "G\u00FCl bah\u00E7esi, g\u00FCl\u00FC \u00E7ok olan yer, g\u00FCl\u015Fen, g\u00FClzar",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Nes\u00EEm-i lutfu her g\u00FClist\u00E2na feyz-bah\u015F\u00E2d\u0131r (F\u0131tnat Han\u0131m). Har\u00E2be h\u00E2lini kesb eylemi\u015F g\u00FClist\u00E2n\u0131m (Muallim N\u00E2ci"
+  },
+  {
+    "id": 30,
+    "KelimeAdi": "Hacet",
+    "Anlam": "Gerek duyulan, muhta\u00E7 olunan \u015Fey, ihtiya\u00E7",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "E\u011Fer hel\u00E2l yoldan kazanmaya g\u00FCc\u00FC yoksa o vakit \u015F\u00FCpheli yerlerden ve h\u00E2cetini kar\u015F\u0131layacak kadar olmal\u0131 (K\u00E2tip \u00C7elebi\u2019den Se\u00E7.)"
+  },
+  {
+    "id": 31,
+    "KelimeAdi": "Hakimiyet",
+    "Anlam": "H\u00E2kim olma, buyru\u011Funu y\u00FCr\u00FCtme durumu, h\u00FCk\u00FCmranl\u0131k, egemenlik",
+    "Dil": "Arap\u00E7a",
+    "Ornek": " Fakat ancak bir tek \u00FClkeye s\u00E2hip ise ona melik denir ve e\u011Fer h\u00E2kimiyeti s\u00E2dece bir \u015Fehre m\u00FCnhas\u0131r kal\u0131rsa ona melik de denmez sultan da (K\u00E2tip \u00C7elebi\u2019den Se\u00E7.). "
+  },
+  {
+    "id": 32,
+    "KelimeAdi": "Hamu\u015Fan",
+    "Anlam": "Susmu\u015F olanlar, sessizler\u201D mec. \u00D6lm\u00FC\u015F olanlar",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Galata Kule Kap\u0131s\u0131 Mevlev\u00EEh\u00E2nesi, \u015Eeyh G\u0101lib ve \u00E7ok sevdi\u011Fi Esrar Dede gibi en b\u00FCy\u00FCk iki \u015F\u00E2irin yan\u0131 s\u0131ra 70 kadar d\u00EEvan s\u00E2hibi \u015F\u00E2ir ve bir\u00E7ok besteciler, bilginler, mesnev\u00EEhanlar yeti\u015Ftirmi\u015Ftir. Bunlar\u0131n bir k\u0131sm\u0131 Mevlev\u00EEh\u00E2ne\u2019nin \u201CH\u00E2m\u00FB\u015Fan\u201D (Susmu\u015Flar) ad\u0131 verilen mezarl\u0131\u011F\u0131nda g\u00F6m\u00FCl\u00FCd\u00FCr (Ahmet Kabakl\u0131)."
+  },
+  {
+    "id": 33,
+    "KelimeAdi": "Ha\u015Fmetmeap",
+    "Anlam": "Osmanl\u0131 Devleti\u2019nde yabanc\u0131 kral ve imparatorlar i\u00E7in kullan\u0131lan \u201Cha\u015Fmet s\u00E2hibi\u201D anlam\u0131nda unvan s\u00F6z\u00FC, majeste.",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "ha\u015Fmetmeaplar\u0131 geldi\u011Finden beri izliyorum seni, hi\u00E7 fark etmedin bile."
+  },
+  {
+    "id": 34,
+    "KelimeAdi": "\u0130dadi",
+    "Anlam": "Osmanl\u0131 e\u011Fitim sisteminde y\u00FCksek okullara \u00F6\u011Frenci yeti\u015Ftiren orta dereceli okul, lise",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Bin\u00E2enaleyh ta\u015Fralarda bulunan \u00EEd\u00E2diyeler harbiyeye tahvil olunmak ve hi\u00E7 olmazsa her ordu merkezinde\u2026 (N\u00E2m\u0131k Kemal"
+  },
+  {
+    "id": 35,
+    "KelimeAdi": "\u0130braz",
+    "Anlam": "gizlendikten sonra ortaya \u00E7\u0131kmak",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "D\u00FCny\u00E2da hangi h\u00FCk\u00FBmet bu azamette bir kuvve-i k\u0101hire ibr\u00E2z\u0131na muktedir olabilir? (N\u00E2m\u0131k Kemal"
+  },
+  {
+    "id": 36,
+    "KelimeAdi": "\u0130htilaf",
+    "Anlam": "Anla\u015Fmazl\u0131k, uyu\u015Fmazl\u0131k",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Yoktur olarda ihtil\u00E2f g\u00FCnden ayan Hak b\u00EE-hil\u00E2f / Her i\u015Fleri Hakk\u2019a muz\u00E2f r\u00FBh eylemi\u015F Yezdan kamu (Niy\u00E2z\u00EE-i M\u0131sr\u00EE). "
+  },
+  {
+    "id": 37,
+    "KelimeAdi": "\u0130stihkak",
+    "Anlam": "Hakk\u0131 olma, hak etme, liy\u00E2kat kazanma, l\u00E2y\u0131k olma",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Bunun \u00E7ok mertebeye istihk\u0101k\u0131 vard\u0131r (K\u00E2tip \u00C7elebi\u2019den Se\u00E7.)."
+  },
+  {
+    "id": 38,
+    "KelimeAdi": "Jale",
+    "Anlam": "Sabahlar\u0131 yaprak ve \u00E7i\u00E7eklerde g\u00F6r\u00FClen su damlalar\u0131, \u00E7iy, \u015Febnem",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "\u015Eafak, bulut, gece, meht\u00E2b, j\u00E2le, gonca-i ter / Siy\u00E2h sa\u00E7lar\u0131n alt\u0131nda bir lik\u0101-y\u0131 seher (Tevfik Fikret). A\u011Fz\u0131 bir goncad\u0131r, di\u015Fleri j\u00E2le (Enis B. Kory\u00FCrek)."
+  },
+  {
+    "id": 39,
+    "KelimeAdi": "J\u00FClide",
+    "Anlam": "Karmakar\u0131\u015F\u0131k, da\u011F\u0131n\u0131k, birbirine girmi\u015F",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Hab\u00E2b-\u0131 e\u015Fk i\u00E7inde m\u00FBy-i j\u00FBl\u00EEdemle ho\u015F-h\u00E2lim / Ba\u015F\u0131mda bu h\u00FCm\u00E2yun-s\u00E2ye ol \u00E2l\u00EE bin\u00E2dand\u0131r (Fuz\u00FBl\u00EE"
+  },
+  {
+    "id": 40,
+    "KelimeAdi": "Kadir\u015Finas",
+    "Anlam": "De\u011Ferli kimselere l\u00E2y\u0131k olduklar\u0131 k\u0131ymeti veren, k\u0131ymetlerini bilen, ona g\u00F6re mu\u00E2mele eden, kadir bilir (kimse",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Sen S\u00FCleyman gibi bir kadir\u015Fin\u00E2s\u0131n oca\u011F\u0131nda yeti\u015Fti\u011Fine hamdet (R\u00FB\u015Fen E. \u00DCnayd\u0131n)."
+  },
+  {
+    "id": 41,
+    "KelimeAdi": "Ke\u015Fmeke\u015F",
+    "Anlam": "Kar\u0131\u015F\u0131kl\u0131k",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Hademe do\u011Fru d\u00FCr\u00FCst isimlerini s\u00F6yleyemez, bir ke\u015Fmeke\u015Ftir gider (Re\u015Fat N. G\u00FCntekin)."
+  },
+  {
+    "id": 42,
+    "KelimeAdi": "Kudema",
+    "Anlam": "Eskiden ya\u015Fam\u0131\u015F olanlar, eski insanlar\u0131n ileri gelenleri, eskiler",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Kudem\u00E2n\u0131n g\u00F6r\u00FCp \u00E2s\u00E2r\u0131n\u0131 biz zevk ettik / Kudem\u00E2 g\u00F6rmedi hayf\u00E2 bizim \u00E2s\u00E2r\u0131m\u0131z\u0131 (N\u00E2b\u00EE \u2013 \u00D6.T.S.). "
+  },
+  {
+    "id": 43,
+    "KelimeAdi": "K\u00FCsuf",
+    "Anlam": "G\u00FCne\u015F tutulmas\u0131",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Gelmesin c\u00E2n\u00E2 cem\u00E2lin \u00E2fit\u00E2b\u0131na k\u00FCs\u00FBf / Ermesin \u00F6mr\u00FCn d\u0131raht\u0131 berkine b\u00E2d-\u0131 hazan (Mihr\u00EE). K\u00FCs\u00FBf i\u00E7inde kalan \u00E2fit\u00E2ba benzettim (Abd\u00FClhak H\u00E2mit\u2019ten)."
+  },
+  {
+    "id": 44,
+    "KelimeAdi": "Laf\u00FCg\u00FCzaf",
+    "Anlam": "Bo\u015F lak\u0131rd\u0131, yersiz s\u00F6z",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "\u015E\u00E2irim amm\u00E2 ki etmem b\u00EEh\u00FBde l\u00E2f\u00FCg\u00FCz\u00E2f / Ehl-i tab\u2019 u d\u00E2ni\u015Fe m\u00E2hiyyetim g\u00FCnden ayan (Ziy\u00E2 Pa\u015Fa\u2019dan)."
+  },
+  {
+    "id": 45,
+    "KelimeAdi": "Latife",
+    "Anlam": "G\u00FCld\u00FCrmek, e\u011Flendirmek amac\u0131yle s\u00F6ylenen g\u00FCzel ve n\u00FCkteli s\u00F6z veya hik\u00E2ye, \u015Faka",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Hay\u0131r, lat\u00EEfeyi bir yana b\u0131rak\u0131n (Ahmed Midhat Efendi). "
+  },
+  {
+    "id": 46,
+    "KelimeAdi": "Levaz\u0131m",
+    "Anlam": "Sil\u00E2hl\u0131 kuvvetlerin ceph\u00E2ne ve sil\u00E2h d\u0131\u015F\u0131nda kalan yiyecek, giyecek maddeleri, \u00E7e\u015Fitli \u00E2let ve ara\u00E7 gibi ihtiya\u00E7lar\u0131",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Lev\u00E2z\u0131m deposu.\u201D Anadolu \u015Fehirleri, kasabalar\u0131, k\u00F6yleri har\u0131l har\u0131l lev\u00E2z\u0131m g\u00F6nderirler. Hisar y\u00FCksele y\u00FCksele a\u011Fustosun yirmi sekizinci g\u00FCn\u00FC b\u00FCy\u00FCk ve k\u00FC\u00E7\u00FCk kuleleriyle, bur\u00E7lar\u0131yle, surlar\u0131yle bug\u00FCnk\u00FC harap \u00E7er\u00E7evesi i\u00E7inde g\u00F6r\u00FCnd\u00FC\u011F\u00FC gibi bembeyaz meydana \u00E7\u0131kar (Yahy\u00E2 Kemal)."
+  },
+  {
+    "id": 47,
+    "KelimeAdi": "Liyakat",
+    "Anlam": "L\u00E2y\u0131k olma, uygunluk",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Benim vezir olu\u015Fum liy\u00E2katimin muktez\u00E2s\u0131 de\u011Fil sad\u00E2katimin m\u00FCk\u00E2f\u00E2t\u0131d\u0131r (F\u00E2ik Re\u015Fat). "
+  },
+  {
+    "id": 48,
+    "KelimeAdi": "Ma\u011Ffiret",
+    "Anlam": "Allah\u0027\u0131n lutuf ve merhamet ederek kullar\u0131n\u0131n g\u00FCnahlar\u0131n\u0131 affetmesi, ba\u011F\u0131\u015Flamas\u0131, yarl\u0131gama",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "N\u00FBr-\u0131 rahmet niye g\u00FCld\u00FCrmeye r\u00FBy-i siyehim / Tanr\u0131\u0027n\u0131n ma\u011Ffiretinden de b\u00FCy\u00FCk m\u00FC g\u00FCnehim (\u015Ein\u00E2s\u00EE\u2019den). Kubben alt\u0131nda bu cumh\u00FBra bakarken \u015Fimdi / Senelerden beri r\u00FC\u0027y\u00E2da g\u00F6r\u00FCp \u00F6zledi\u011Fim / Cedlerin ma\u011Ffiret ikl\u00EEmine girmi\u015F gibiyim (Yahy\u00E2 Kemal)."
+  },
+  {
+    "id": 49,
+    "KelimeAdi": "Mahremiyet",
+    "Anlam": "Mahrem olma durumu, bir kimsenin gizli \u00F6zelli\u011Fi",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Olur mu b\u00F6yle, b\u00FCt\u00FCn bir geceyi / Bir m\u0131sr\u00E2\u0131n mahremiyetinde ge\u00E7irmek (Orhan V. Kan\u0131k)."
+  },
+  {
+    "id": 50,
+    "KelimeAdi": "Mefhum",
+    "Anlam": "Bir s\u00F6z\u00FCn veya kelimenin ta\u015F\u0131d\u0131\u011F\u0131, if\u00E2de etti\u011Fi m\u00E2n\u00E2, anlam, kavram",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Irk mefh\u00FBmunu t\u00E2rihten evvele kadar geri g\u00F6t\u00FCrmek l\u00E2z\u0131md\u0131r (Refik H. Karay). "
+  },
+  {
+    "id": 51,
+    "KelimeAdi": "Muas\u0131r",
+    "Anlam": "ayn\u0131 devirde ya\u015Famak",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Mu\u00E2s\u0131r medeniyet.\u201D Ben Kur\u2019\u00E2n\u2019\u0131 her cihetten ve her noktadan tetkik ettim, her kelimesinde b\u00FCy\u00FCk hikmetler g\u00F6rd\u00FCm. Sana mu\u00E2s\u0131r olamad\u0131\u011F\u0131mdan m\u00FCteessirim y\u00E2 Muhammed! (Prens Bismark\u2019tan Terc.). "
+  },
+  {
+    "id": 52,
+    "KelimeAdi": "Nadide",
+    "Anlam": "G\u00F6r\u00FClmemi\u015F, e\u015Fi benzeri olmayan",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Sevdi\u011Fimin etr\u00E2f\u0131na yery\u00FCz\u00FCn\u00FCn b\u00FCt\u00FCn t\u0131l\u0131s\u0131ml\u0131 g\u00FCzelliklerini, n\u00E2d\u00EEde k\u0131ymetlerini ya\u011Fd\u0131rmak istedim (Safiye Erol)"
+  },
+  {
+    "id": 53,
+    "KelimeAdi": "Nam\u00FCtenahi",
+    "Anlam": "Sonsuz, sonu s\u0131n\u0131r\u0131 olmayan",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Biter mi bitti denilmekle n\u00FBr-\u0131 n\u00E2m\u00FCten\u00E2h\u00EE / Nefesle k\u0101bil-i itf\u00E2 m\u0131d\u0131r \u00E7er\u00E2\u011F-\u0131 il\u00E2h\u00EE (Muallim N\u00E2ci). "
+  },
+  {
+    "id": 54,
+    "KelimeAdi": "Nazenin",
+    "Anlam": "\u0130\u015Fveli, cilveli, nazl\u0131",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Bilen h\u00E2k-i Sitanbul\u2019dur r\u00FCs\u00FBm-\u0131 \u015F\u00EEve v\u00FC n\u00E2z\u0131 / Ken\u00E2r\u0131n dilberi n\u00E2zik de olsa n\u00E2zen\u00EEn olmaz (N\u00E2b\u00EE\u2019den). "
+  },
+  {
+    "id": 55,
+    "KelimeAdi": "N\u00FCmayi\u015F",
+    "Anlam": "G\u00F6steri",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Fransa ve \u0130svi\u00E7re\u2019de \u0130talyan amele az \u00E7ok g\u00FCr\u00FClt\u00FCl\u00FC n\u00FCm\u00E2yi\u015Flerle istiskal ediliyor (Cenap \u015Eah\u00E2beddin). "
+  },
+  {
+    "id": 56,
+    "KelimeAdi": "Payitaht",
+    "Anlam": "Ba\u015Fkent, ba\u015F\u015Fehir, merkez-i h\u00FCk\u00FBmet",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Mezb\u00FBrun p\u00E2yitahta gelmezden \u00F6nce ve sonra nice m\u00FBteber gaz\u00E2lar\u0131 vard\u0131r (K\u00E2tip \u00C7elebi\u2019den)"
+  },
+  {
+    "id": 57,
+    "KelimeAdi": "Pejm\u00FCrde",
+    "Anlam": "Eski p\u00FCsk\u00FC, pis, y\u0131pranm\u0131\u015F, y\u0131rt\u0131k",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Hey\u2019et-i c\u00E2meleri pejm\u00FCrde / Zinde amm\u00E2 g\u00F6r\u00FCn\u00FCr dil m\u00FCrde (Enderunlu F\u00E2z\u0131l\u2019dan). \u00DCst\u00FC ba\u015F\u0131 pejm\u00FCrde idi (Y\u00E2kup K. Karaosmano\u011Flu\u2019ndan)."
+  },
+  {
+    "id": 58,
+    "KelimeAdi": "Piraye",
+    "Anlam": "S\u00FCs, ziynet",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Emr \u00FC nehyin \u00E2lemin p\u00EEr\u00E2yesi / Kavl \u00FC fi\u2019lin \u00E2demin serm\u00E2yesi (G\u00FCl\u015Fehr\u00EE)."
+  },
+  {
+    "id": 59,
+    "KelimeAdi": "Rahle",
+    "Anlam": "Kitap okumak veya yaz\u0131 yazmak \u00FCzere \u00F6n\u00FCne oturulan, a\u00E7\u0131l\u0131r kapan\u0131r al\u00E7ak tahta masa",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Ders ald\u0131\u011F\u0131 rahle beyaz g\u00FCl a\u011Fac\u0131ndan m\u0131yd\u0131? (\u00D6mer Seyfeddin)."
+  },
+  {
+    "id": 60,
+    "KelimeAdi": "Rehavet",
+    "Anlam": "Gev\u015Feklik, kendini koyuverme, a\u011F\u0131rl\u0131k, tembellik",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Topla, f\u0131rlat ne varsa ta\u015F, i\u011Fne / \u015Eu muh\u00EEtin ser-i reh\u00E2vetine (Tevfik Fikret). "
+  },
+  {
+    "id": 61,
+    "KelimeAdi": "Ruhiyat",
+    "Anlam": "Ruh bilimi, psikoloji ilmi",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Kad\u0131n r\u00FBhiy\u00E2t\u0131n\u0131 tahlilde \u00FCstat olan bir edip\u2026 (Ahmet H\u00E2\u015Fim). "
+  },
+  {
+    "id": 62,
+    "KelimeAdi": "Safderun",
+    "Anlam": "\u0130\u00E7i temiz oldu\u011Fu i\u00E7in kolay aldat\u0131labilen, b\u00F6n",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "T\u00E2rihin \u00F6z\u00FC s\u00F6z\u00FC do\u011Fru bir mahl\u00FBk oldu\u011Funa \u00EEman etmek i\u00E7in insan haylice safderun olmal\u0131 (Cenap \u015Eah\u00E2beddin). "
+  },
+  {
+    "id": 63,
+    "KelimeAdi": "Server",
+    "Anlam": "Bir toplulu\u011Fun en ileri geleni, ba\u015Fkan, reis",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Ol s\u00F6z\u00FC \u015F\u00EEr\u00EEn \u00FC ol cismi ar\u0131 / Enbiy\u00E2 v\u00FC evliy\u00E2n\u0131n serveri (S\u00FCleyman \u00C7elebi"
+  },
+  {
+    "id": 64,
+    "KelimeAdi": "Serzeni\u015F",
+    "Anlam": "Ba\u015Fa kakma, sitem, takaza",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "G\u0101liba a\u015Fk ve muhabbet nedir bilmiyorsun diye serzeni\u015Fler ederdi (\u00C2l\u00EE Bey). "
+  },
+  {
+    "id": 65,
+    "KelimeAdi": "\u015Eaheser",
+    "Anlam": "M\u00FCkemmel ve \u00E7ok \u00FCst\u00FCn eser",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "M\u00EEm\u00E2r\u00EEnin en b\u00FCy\u00FCk \u015F\u00E2heserleri \u015Fimdiye kadar m\u00E2bedler ve merkadler olmu\u015Ftur (Ahmet H\u00E2\u015Fim)."
+  },
+  {
+    "id": 66,
+    "KelimeAdi": "\u015Eahika",
+    "Anlam": "Da\u011F tepesi, doruk",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Bir da\u011F silsilesinin \u015F\u00E2hikalar\u0131n\u0131 anlamak i\u00E7in nas\u0131l o hav\u00E2linin ar\u00E2zi \u015Fekillerini ve silsilenin b\u00FCt\u00FCn uzan\u0131\u015F\u0131n\u0131 bilmek laz\u0131msa, o \u015F\u00E2hikalara benzetebilece\u011Fimiz \u015F\u00E2heserler i\u00E7in de ayn\u0131 us\u00FBl\u00FC tatbik mecb\u00FBriyetindeyiz (Fuat K\u00F6pr\u00FCl\u00FC). "
+  },
+  {
+    "id": 67,
+    "KelimeAdi": "\u015Eebnem",
+    "Anlam": "\u00C7iy",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "\u0130ntiz\u00E2r\u0131m sanad\u0131r subha dek ey mihr-i m\u00FCn\u00EEr / Berg-i h\u00E2t\u0131rda olan \u015Febnem-i \u00FCmm\u00EEd gibi (N\u00E2il\u00EE). "
+  },
+  {
+    "id": 68,
+    "KelimeAdi": "Taharet",
+    "Anlam": "Temiz olma, temizlik",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "B\u00F6yle mahbes ve menf\u00E2 namzetlerinden m\u00FCrekkep bir ordunun z\u00E2yi\u00E2t\u0131 memleket i\u00E7in bir nevi tah\u00E2ret oldu\u011Funa g\u00F6re \u0130ngiltere bug\u00FCn muh\u00E2rebe meydanlar\u0131nda d\u00F6k\u00FClen kana ac\u0131mamakta ne kadar hakl\u0131 (Cenap \u015Eah\u00E2beddin)."
+  },
+  {
+    "id": 69,
+    "KelimeAdi": "Takriz",
+    "Anlam": "Bir eseri hakk\u0131nda bir yaz\u0131 yazarak \u00F6vme",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Ziy\u00E2 Pa\u015Fa\u2019n\u0131n Osman Nevres D\u00EEv\u00E2n\u0131 i\u00E7in yazd\u0131\u011F\u0131 me\u015Fhur takriz d\u00EEv\u00E2n\u0131n bask\u0131 n\u00FCshas\u0131nda mevcuttur (\u0130skender Pala)."
+  },
+  {
+    "id": 70,
+    "KelimeAdi": "Tekam\u00FCl",
+    "Anlam": "Olgunla\u015Fma, olgunluk",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Ona b\u00E2z\u0131 unsurlar, mesel\u00E2 b\u00FCy\u00FCk bir tek\u00E2m\u00FCl m\u00EEr\u00E2s\u0131 ve \u00E7al\u0131\u015Fma imk\u00E2nlar\u0131 haz\u0131rlam\u0131\u015F (Ahmet H. Tanp\u0131nar). "
+  },
+  {
+    "id": 71,
+    "KelimeAdi": "Uhrevi",
+    "Anlam": "\u00C2hirete \u00E2it, \u00F6b\u00FCr d\u00FCnya ile ilgili. Kar\u015F\u0131t\u0131",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "H\u00FCr ve engin vatan\u0131n hem gece hem g\u00FCnd\u00FCz\u00FCne / Uhrev\u00EE bir kap\u0131 a\u00E7m\u0131\u015F buradan g\u00F6ky\u00FCz\u00FCne / T\u00E2 ki ge\u00E7sin ezel\u00EE rahmete r\u00FBh ordular\u0131 (Yahy\u00E2 Kemal)."
+  },
+  {
+    "id": 72,
+    "KelimeAdi": "Ukubat",
+    "Anlam": "Uk\u016Bbetler, cez\u00E2lar",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Y\u00E2 \u015Feyh! Bu k\u00F6le e\u015Fedd-i uk\u016Bb\u00E2ta m\u00FCstahak iken bu kadar m\u00FCk\u00E2f\u00E2ta l\u00E2y\u0131k g\u00F6r\u00FClmesi nedendir? (F\u00E2ik Re\u015Fat)."
+  },
+  {
+    "id": 73,
+    "KelimeAdi": "Vak\u0131a",
+    "Anlam": "Olmu\u015F olan \u015Fey, geri \u00E7evrilmesi m\u00FCmk\u00FCn olmayan olay, olgu",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "V\u00E2k\u0131alara dayanarak anlatmak s\u00FBretiyle i\u015F ba\u015F\u0131ndakilerin dikkatini \u00E7ekme\u011Fe \u00E7ok \u00E7al\u0131\u015Fm\u0131\u015Ft\u0131r (K\u00E2tip \u00C7elebi\u2019den Se\u00E7.). "
+  },
+  {
+    "id": 74,
+    "KelimeAdi": "Varidat",
+    "Anlam": "Gelirler, gelir [Tekil anlam\u0131nda da kullan\u0131l\u0131r]",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Hi\u00E7, bir adam v\u00E2rid\u00E2t\u0131n\u0131n yar\u0131s\u0131ndan ziy\u00E2desini ev kir\u00E2s\u0131 verir mi? (\u00D6mer Seyfeddin)."
+  },
+  {
+    "id": 75,
+    "KelimeAdi": "Vusul",
+    "Anlam": "Ula\u015Fma, eri\u015Fme, varma, muv\u00E2salat",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Z\u00EEr\u00E2 Hakk\u2019a vusulden sonra r\u00FCc\u00FB olmaz (\u0130sm\u00E2il Hakk\u0131 Bursev\u00EE)."
+  },
+  {
+    "id": 76,
+    "KelimeAdi": "Yegane",
+    "Anlam": "Tek, biricik",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "Halbuki sebeb-i z\u00E2hir\u00EE hemen hi\u00E7bir zaman sebeb-i yeg\u00E2ne olamaz (Cenap \u015Eah\u00E2beddin). "
+  },
+  {
+    "id": 77,
+    "KelimeAdi": "Yelda",
+    "Anlam": "Aral\u0131k ay\u0131nda en uzun geceli alt\u0131 g\u00FCnl\u00FCk m\u00FCddet",
+    "Dil": "Fars\u00E7a",
+    "Ornek": "En k\u00FC\u00E7\u00FCk bir \u015Fu\u2019le-i \u015Fafak g\u00F6r\u00FCnmeyen bir \u015Feb-i yeld\u00E2 i\u00E7inde idi (S\u00E2mipa\u015Faz\u00E2de Sez\u00E2\u00EE)"
+  },
+  {
+    "id": 78,
+    "KelimeAdi": "Zaruret",
+    "Anlam": "Mecb\u00FBriyet, zorunluluk",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Zar\u00FBretler memn\u00FB olan \u015Feyleri mubah k\u0131lar (Cevdet Pa\u015Fa). "
+  },
+  {
+    "id": 79,
+    "KelimeAdi": "Ziyade",
+    "Anlam": "Fazla, \u00E7ok",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Birden ziy\u00E2de idiler (\u00D6mer Seyfeddin)."
+  },
+  {
+    "id": 80,
+    "KelimeAdi": "Z\u00FCmre",
+    "Anlam": "Topluluk, grup, c\u00E2mia, s\u0131n\u0131f",
+    "Dil": "Arap\u00E7a",
+    "Ornek": "Kibar z\u00FCmresinden bir\u00E7oklar\u0131 cen\u00E2ze alay\u0131nda bulundular (Ahmed Midhat Efendi). "
+  }
+]
