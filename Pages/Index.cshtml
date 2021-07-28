@@ -1,0 +1,277 @@
+﻿@page
+@model Lügavi.Pages.IndexModel
+@{
+}
+@if (Model.Status == 1)
+{
+
+    <div class="alert alert-success" role="alert">
+        Kelime Eklendi.
+    </div>
+}
+else if (Model.Status == 2)
+{
+
+    <div class="alert alert-success" role="alert">
+        Kelime Silindi.
+    </div>
+}
+else if (Model.Status == 3)
+{
+
+    <div class="alert alert-success" role="alert">
+        Kelime Düzenlendi.
+    </div>
+}
+else if (Model.Status == 4)
+{
+
+    <div class="alert alert-danger" role="alert">
+        Kelime Silinemedi.
+    </div>
+}
+
+
+
+<!-- -->
+<!-- Selahattin Karaca - Mete Serbay Cesur - Uğur Sayıner tarafından tasarlanmıştır. -->
+<!-- NOT : Açıklama satırları ilgili kodun veya bölümün üstündeki satıra yazılmıştır. -->
+<!-- web sitesinin  anasayfası. bu nedenle index.html şeklinde isimlendirildi. -->
+<!-- sayfa html5 ile yazılmıştır. dili türkçedir. -->
+<!DOCTYPE html>
+
+<html lang="tr">
+<!-- serverlar, tarayıcılar ve arama motorları için gerekli bildirimler head tagında tanımlanmıştır. -->
+<head>
+    <!-- aşağıda yer alan ve google.fonts işlemlerinin yapıldığı kodlar, w3schools'tan alınmıştır. -->
+    <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet'>
+
+    <!-- sayfanın fontu Open Sans olarak belirlenmiştir. -->
+    <style>
+        body {
+            font-family: 'Open Sans';
+        }
+    </style>
+
+    <!-- sayfanın tasarımıyla ilgili css kodları import edilmiştir. -->
+    <link rel="stylesheet" href="css/script/index_stil.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <!-- tarayıcıda türkçe karakterlerin düzgün görüntülenmesi için tanımlanmıştır. -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous" />
+
+    <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+    <script src="/js/script.js"></script>
+    <!-- sayfa başlığı olarak projenin ismi kullanılımıştır. Lügavi. -->
+    <title>Lügavi</title>
+</head>
+
+<!-- ***************************************************************************************************************************************************** -->
+<!-- web sitesinin ziyaretçilerine gösterilecek içerikler body tagında tanımlanmıştır. -->
+<body>
+    <!-- bütün web sayfası div tagı içinde tanımlanmıştır. -->
+    <div id="sayfa">
+        <!-- bootstrap navbar kodları-->
+        <header class="navbar navbar-expand-lg navbar-light bg-light navbar-nav ">
+            <div class="container-fluid py " style="background-color:#1261A0; border: 5px; ">
+                <!--py-5 navbar yüksekliği-->
+                <!--py-5 kodu kaynağı-->
+                <!--https://bootstrapious.com/p/how-to-change-bootstrap-navbar-height-->
+                <!-- logo resmi navbarda tanımlanmıştır.-->
+                <a class="navbar-brand" font-size:50%;" asp-page="/Index"><img src="/resimler/lugavi_logo.png" width=182 height=55 /></a>
+
+            </div>
+        </header>
+
+        <!-- ***************************************************************************************************************************************************** -->
+        <section id="gunun_kelimesi">
+            <h2 id="gunun_kelimesi_yazisi">Günün Kelimesi:</h2>
+        </section>
+
+        <div class="container row " style="margin-top:5%; margin-bottom:5%;">
+            <div>
+                <ul>
+
+                    @foreach (var kelime in Model.Kelimeler)
+                    {
+
+
+                        <script> random_yaz(@kelime.id);</script>
+                    }
+                    <script>random_duzenle();</script>
+
+                </ul>
+            </div>
+            <div class="col-md-1"></div>
+            <div class="col-md-8 ">
+                <b><p id="kelime" style="font-size:8.5vh; font-family: myFirstFont;"></p></b>
+                <b style="font-size:1.6vh;" id="anlam_b"></b>
+                <p style="font-family:deneme; font-size:1.8vh;" id="anlam"></p>
+                <br />
+                <b style="font-size:1.6vh;" id="dil_b"></b>
+                <p style="font-family:deneme; font-size:1.8vh;" id="dil"></p>
+                <br />
+                <b style="font-size:1.6vh;" id="ornek_b"></b>
+                <p style="font-family:deneme; font-size:1.8vh;" id="ornek"></p>
+            </div>
+            @foreach (var kelime in Model.Kelimeler)
+            {
+
+                <script>
+
+                        rasgele_kelime_yaz('@kelime.KelimeAdi', '@kelime.Anlam', '@kelime.Dil', '@kelime.Ornek','@kelime.id');
+
+
+                </script>
+            }
+        </div>
+        <!-- ***************************************************************************************************************************************************** -->
+
+        <section id="kategoriler">
+            <div id="satir1">
+                <div id="kategori1">
+                    <a href="/kategori1.html" target="_blank">
+                        <img src="/resimler/kategori1.jpg" style="width:100%">
+                    </a>
+                </div>
+                <div id="kategori2">
+                    <a asp-area="" asp-page="/Listele/Listele">
+                        <img src="/resimler/kategori2.jpg" style="width:100%">
+                    </a>
+                </div>
+            </div>
+            <div id="satir2">
+                <div id="kategori3">
+                    <a asp-area="" asp-page="/Duzenle/Duzenle">
+                        <img src="/resimler/kategori3.jpg" style="width:100%">
+                    </a>
+
+                </div>
+                <div id="kategori4">
+                    <a asp-area="" asp-page="/Ekle/Ekle">
+                        <img src="/resimler/kategori4.jpg" style="width:100%">
+                    </a>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- ***************************************************************************************************************************************************** -->
+        <!-- web sayfasındaki hakkımızda içeriklerin yer aldığı bölüm, section tagı ile belirtilmiştir. -->
+        <section id="iletisim">
+            <h3 id="iletisim_yazisi"><i>...Lügavi.net'e katkıda bulunan müelliflerimiz...</i></h3>
+
+            <div id="ana_div_foto">
+                <div class="foto_image">
+                    <img src="/resimler/selahattin_circle.png" class="responsive_image">
+                    <a class="link_foto" href="/selahattin_iletisim.html" >Selahattin Karaca</a>
+                </div>
+                <div class="foto_image">
+                    <img src="/resimler/serbay_circle.png" class="responsive_image" id="serbay_foto">
+                    <a class="link_foto" href="/serbay_iletisim.html" >Mete Serbay</a>
+                </div>
+                <div class="foto_image">
+                    <img src="/resimler/ugur_circle.png" class="responsive_image" id="ugur_foto">
+                    <a class="link_foto" id="link_foto_ugur" href="/ugur_iletisim.html" >Uğur Sayıner</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- ***************************************************************************************************************************************************** -->
+        <!-- web sayfasındaki hakkımızda içeriklerin yer aldığı bölüm, section tagı ile belirtilmiştir. -->
+        <section id="hakkimizda">
+            <!-- projenin amacıyla ilgili içerikler tanımlanmıştır. -->
+            <article>
+                <!-- ilgili bölümün başlığı tanımlanmıştır. -->
+                <h2 id="projenin_amaci">Projenin Amacı</h2>
+                <p class="hakkinda_p">
+                    Eskiden şiirlerle hemhal olmuş, mecmuaların ve romanların nüvesini oluşturan birbirinden latif ve birbirinden ahenkli sözcüklerimiz; ne yazık ki artık kitapların tozlu sayfalarına karışmaktadır.
+                    Binaenaleyh halkımızın - ve dahi okumuşlarımızın – lisanı her geçen gün güdükleşmekte; konuşulan ve yazılan lisan, birkaç yüz kelimeden ibaret olan sokak ağzına hapsolmaktadır.
+                    Şu durum ivedilikle gözden kaçırılmamalıdır ki, bir milletin lisanının gücü zayıfladıkça; ilim, felsefe, fikriyat ve dahi içtimai hayatı etkileyen her türlü mesele
+                    son derece sığ bir bakış açısıyla ele alınmakta, geçmiş ile kurulmuş kültürel bağ zayıflamakta ve o milletin ilmi-fikri gelişimi tehlike altına girmektedir.
+                    Çünkü lisan bir milletin özünü oluşturan en temel yapı taşlarından biri ise lisanın katli bir nevi o milletin kültürel bakımdan soykırıma uğratılması manasına gelmektedir.
+                    Maalesef ki bu durum necip milletimize de vaki olmuştur, güzel Türkçemiz yıllar içinde git gide yozlaşmıştır. Lakin olan olmuştur ve “zararın neresinden dönülse kardır” prensibi gereği
+                    ah-u vah etmek ve fersude olmuş ifadeleri tekrarlamak, yazınsal geleceğimiz için doğru bir hamle olmayacaktır. Yapılması gereken, elimizden geldiğince,
+                    lisanımızın eski gücüne kavuşmasını sağlamak için çalışmaktır.
+                </p>
+                <p class="hakkinda_p">
+                    Bu nedenle <strong>Selahattin Karaca, Mete Serbay Cesur</strong> ve <strong>Uğur Sayıner </strong>olarak; <u>1920’li yılların zengin Türkçesinin - halkımız nazarında - bir nebze olsun yeniden teşekkül etmesi için</u> bir proje geliştirdik.
+                    <u>Bu projemizde eski lisanımızda yer alan güzide sözcüklerimizin bazısı; manası, dilbilimsel kökeni ve cümle içinde kullanımı ile örneklendirilerek internet platformunda ifade edilmeye çalışılmıştır.</u>
+                    Nihai amacımız bu sözcükleri takip ederek ve dahi öğrenerek, kelime birikiminin artırılmasına yardımcı olmaktır. Bunun için göze hoş gelecek yazı tipleri ile sade ama etkileyici bir görsel tasarım
+                    kullanarak bir web sitesi tasarlamak istedik.</br></br>
+                    En güzel şekilde yararlanmanız dileğiyle…
+                </p>
+            </article>
+
+            <!-- projede yararlanılan kaynakların yer aldığı içerikler tanımlanmıştır. -->
+            <article>
+                <!-- ilgili bölümün başlığı tanımlanmıştır. -->
+                <h2 id="yararlandigimiz_kaynaklar">Yararlandığımız Kaynaklar</h2>
+                <p class="hakkinda_p">
+                    Projemizi gerçekleştirirken kelimelerin anlamları, kökenleri ve cümle içindeki örnekleri konusunda yararlandığımız kaynağımız “<strong>Kubbealtı Lügatı</strong>” dır.
+                    İlhan Ayverdi ve Ahmet Topaloğlu tarafından Misalli Büyük Türkçe Sözlük adıyla ilk kez 2005 senesinde yayımlanan lügat, <a href="http://lugatim.com/" target="_blank">www.lugatim.com</a> adresinde görüntülenebilmektedir.
+                    İlgili web sitesi Kubbealtı Vakfı’na aittir. Kubbealtı Lügatı’nı aşağıda yer alan linkler aracılığıyla satın alabilirsiniz.</br></br>
+
+                    <!-- ilgili linkler tanımlanmıştır. -->
+                    <img src="https://img.kitapyurdu.com/v1/getImage/fn:11250623/wh:fca476ca7" width=19 height=15 />
+                    <a href="https://www.kitapyurdu.com/kitap/misalli-buyuk-turkce-sozluk-3-cilt/76241.html" target="_blank">Kitapyurdu.com aracılığıyla satın almak için tıklayınız.</a></br>
+                    <img src="resimler/idefix_logo.png" width=21 height=21 />
+                    <a href="https://www.idefix.com/Kitap/Misalli-Buyuk-Turkce-Sozluk/Egitim-Basvuru/Sozluk/urunno=0000000322050" target="_blank">İdefix.com aracılığıyla satın almak için tıklayınız.</a></br>
+                    <img src="https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/Amazon_alt.png" width=20 height=20 />
+                    <a href="https://www.amazon.com.tr/Misalli-B%C3%BCy%C3%BCk-T%C3%BCrk%C3%A7e-S%C3%B6zl%C3%BCk-Cilt/dp/9756444762" target="_blank">Amazon.com.tr aracılığıyla satın almak için tıklayınız.</a></br>
+                </p>
+            </article>
+        </section>
+
+        <!-- ***************************************************************************************************************************************************** -->
+        <!-- web sayfasının footer bölümü aşağıda tanımlanmıştır.-->
+        <footer class="site-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-6">
+                        <h6>Lügavi</h6>
+                        <p style="color: #FFFAF0;" class="text-justify">Günümüzde popülerliğini yitirmiş eski güzel sözcükleri anlamlarıyla beraber kullanıcıya sunacak bir site düşünüyoruz</p>
+                    </div>
+
+                    <div class="col-xs-6 col-md-3">
+                        <h6>Geliştiriciler</h6>
+                        <ul class="footer-links">
+                            <li><a>Selahattin KARACA</a></li>
+                            <li><a>Uğur SAYINER</a></li>
+                            <li><a>Mete Serbay CESUR</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-xs-6 col-md-3">
+                        <h6>E-mail & İletişim</h6>
+                        <ul class="footer-links">
+                            <li><a>selahattinkaraca7880@gmail.com</a></li>
+                            <li><a>ugursayiner99@hotmail.com</a></li>
+                            <li><a>meteserbay@hotmail.com</a></li>
+                            <li><a href="https://selahattinkaraca.github.io/">GitHub</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <hr>
+            </div>
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-sm-6 col-xs-12">
+                        <p class="copyright-text">
+                            Copyright &copy; 2021 All Rights Reserved by
+                            <a href="#">Lugavi</a>.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

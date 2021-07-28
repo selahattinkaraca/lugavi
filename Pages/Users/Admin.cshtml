@@ -1,0 +1,35 @@
+﻿@page
+@model Lügavi.Pages.Users.AdminModel
+@{
+}
+
+<form class="form-inline justify-content-center mb-3" method="post" asp-page-handler="GetProjectByID">
+    <input class="form-control" type="search" asp-for="Proje.id">
+    <button class="btn btn-primary" type="submit">Ara</button>
+</form>
+
+<form method="post" asp-page-handler="Form">
+    <div class="form-row">
+        <div class="col-3">
+            <input type="text" class="form-control" asp-for="Proje.id">
+        </div>
+        <div class="col-3">
+            <input type="text" class="form-control" asp-for="Proje.teamId" placeholder="Id giriniz.">
+        </div>
+        <div class="col-6">
+            <input type="text" class="form-control" asp-for="Proje.projectName" placeholder="İsim giriniz.">
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="col-12">
+            <input type="text" class="form-control" asp-for="Proje.projectDescription">
+        </div>
+        <div class="col-12">
+            <input type="text" class="form-control" asp-for="Proje.image" placeholder="Id giriniz.">
+        </div>
+        <div class="col-12">
+            <input type="text" class="form-control" asp-for="Proje.url" placeholder="İsim giriniz.">
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Ekle</button>
+</form>

@@ -1,0 +1,35 @@
+﻿@page
+@model Lügavi.Pages.Users.SignupModel
+@{
+}
+
+<h1>Uye Kaydi</h1>
+<form method="post">
+    <div class="form-row mb-3">
+        <div class="col">
+            <input type="text" class="form-control" asp-for="Kullanici.Ad" placeholder="Ad giriniz." required>
+        </div>
+        <div class="col">
+            <input type="text" class="form-control" asp-for="Kullanici.Soyad" placeholder="Soyad giriniz.">
+        </div>
+        <div class="col">
+            <input type="text" class="form-control" asp-for="Kullanici.Email" placeholder="Email giriniz.">
+        </div>
+    </div>
+    <div class="form-row mb-3">
+        <div class="col">
+            <input type="text" class="form-control" asp-for="Kullanici.Adres.Il" placeholder="İl giriniz.">
+        </div>
+        <div class="col">
+            <input type="text" class="form-control" asp-for="Kullanici.Adres.Ilce" placeholder="İlçe giriniz.">
+        </div>
+        <div class="col">
+            <input type="text" class="form-control" asp-for="Kullanici.Adres.PostaKodu" placeholder="Posta kodu giriniz.">
+        </div>
+        <div class="col-12 mt-1" >
+            <input type="text" class="form-control" asp-for="Kullanici.Adres.Detay" placeholder="Adres bilgisi giriniz.">
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Kayıt Ol</button>
+</form>
+

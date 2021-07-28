@@ -1,0 +1,35 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<h1>Kayıt Platformu</h1>
+<form method="post">
+    <div class="form-row">
+        <div class="col">
+            <input type="text" class="form-control" placeholder="Ad giriniz." required="" id="Kullanici_Ad" name="Kullanici.Ad" value="">
+        </div>
+        <div class="col">
+            <input type="text" class="form-control" placeholder="Soyad giriniz." id="Kullanici_Soyad" name="Kullanici.Soyad" value="">
+        </div>
+        <div class="col">
+            <input type="text" class="form-control" placeholder="Email giriniz." id="Kullanici_Email" name="Kullanici.Email" value="">
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="col">
+            <input type="text" class="form-control" placeholder="Il giriniz." required="" id="Kullanici_Adres_Il" name="Kullanici.Adres.Il" value="">
+        </div>
+        <div class="col">
+            <input type="text" class="form-control" placeholder="Ilce giriniz." id="Kullanici_Adres_Ilce" name="Kullanici.Adres.Ilce" value="">
+        </div>
+        <div class="col">
+            <input type="text" class="form-control" placeholder="Posta Kodu giriniz." id="Kullanici_Adres_PostaKodu" name="Kullanici.Adres.PostaKodu" value="">
+        </div>
+    </div>
+    <input type="submit" class="btn btn-info" value="Submit Button">
+    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8BD7RwawF4JEkj7ATGIWWnGmuijiVrT43DY6nLVeW-y84wXGJlHgi3h--e9uxUzhVHRIdoydfGP2mrVVV5ZwZJgmhcBecf-vx9rqWXd3nxyQBTCmq8vjAnzoblmXc5iqHhQScf8UcIlnV31SU91YSzM">
+</form>
